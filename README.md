@@ -1,5 +1,3 @@
-![](thumbnail.png)
-
 # App de Checklist de Estudos
 
 App de checklist para organizar estudos, tarefas e o que mais precisar.
