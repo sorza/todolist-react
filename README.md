@@ -26,7 +26,7 @@ O desenvolvimento do projeto aborda as seguintes técnicas e tecnologias:
 * **Ícones SVG personalizados**
 * **Boas práticas de organização de código**
 
-## 🛠️ Como rodar o projeto
+## Como rodar o projeto
 
 Após baixar o projeto, siga os passos abaixo para executar localmente:
 
