@@ -22,7 +22,7 @@ function App() {
     setShowDialog(!showDialog);
   }
 
-  const handleFormSubmit = () => {
+  const handleFormSubmit = (formData) => {
     addTodo(formData);
     toggleDialog();
   }
